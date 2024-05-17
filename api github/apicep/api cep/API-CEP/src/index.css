@@ -1,0 +1,18 @@
+.container{
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+  border-style: double;
+  width: 400px;
+}
+.input{
+  text-align: center;
+  border-radius: 10px;
+  width: 250px;
+  height: 35px;
+  font-size: medium;
+}
+button{
+  border-radius: 20px;
+  width: 100px;
+}

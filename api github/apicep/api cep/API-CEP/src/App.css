@@ -1,0 +1,23 @@
+.container{
+  text-align: center;
+  
+  margin: 0 auto;
+  display: block;
+  border-style: double;
+  padding: 20px;
+  width: 400px;
+}
+input{
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  border-radius: 20px;
+  width: 230px;
+  height: 35px;
+  font-size: medium;
+}
+button{
+  border-radius: 20px;
+  width: 230px;
+  height: 40px;
+}
